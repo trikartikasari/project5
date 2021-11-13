@@ -1,0 +1,65 @@
+{
+  "users": [
+    {
+      "id": 0,
+      "img": "https://assetcdnendpoint.azureedge.net/uploads/product/thumbnail/scoopy-2023-27052021-093501.png",
+      "merk": "Se-copy",
+      "rp": "Rp. 20,325,000",
+      "ket": "Baterai: 12 V 5 Ah, Kapasitas: 109.5 cc, Kapasitas tangki bahan bakar: 4 sampai 4.2 l, Kecepatan maksimum: 115 km/jam"
+    },
+    {
+      "img": "https://assetcdnendpoint.azureedge.net/uploads/product/thumbnail/pcx-361-27052021-093821.png",
+      "merk": "PCR",
+      "rp": "Rp. 30,845,000",
+      "ket": "Mesin: 1 silinder, Model bodi: Skuter, Model starter: Electric Starter, Kapasitas tangki bahan bakar: 8 l, Kapasitas: 149.3 cc",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "img": "https://assetcdnendpoint.azureedge.net/uploads/product/thumbnail/thumbnail-motor-new-cbr250rr-13082021-091044.png",
+      "merk": "CJR 250RR",
+      "rp": "Rp. 61,700,000",
+      "ket": "Voltase Aki: 12 V, Kapasitas Baterai: 7Ah, Kapasitas tangki bahan bakar:; 14.4 l, Kecepatan maksimum: 181 km/jam"
+    },
+    {
+      "id": 3,
+      "img": "https://assetcdnendpoint.azureedge.net/uploads/product/thumbnail/supra-x-125-fi-3-27052021-092008.png",
+      "merk": "Suprai X 125 FI",
+      "rp": "Rp. 18,455,000",
+      "ket": "Baterai: 12 V 3 Ah, Model bodi: Moped, Desain rangka bodi: Tulang Belakang, Kapasitas tangki bahan bakar: 4 l, Kecepatan maksimum: 118 km/jam"
+    },
+    {
+      "img": "https://assetcdnendpoint.azureedge.net/uploads/product/thumbnail/vario-150-2021-27052021-093802.jpg",
+      "merk": "Mario 150",
+      "rp": "Rp. 24,565,000",
+      "ket": "Baterai: 12 V 5 Ah, Model bodi: Skuter, Kapasitas tangki bahan bakar: 5.5 l, Kecepatan maksimum: 128 km/jam.",
+      "id": 4
+    },
+    {
+      "text": "Barang berhasil dibeli, silahkan tunggu barang sampai dirumah anda dengan menyiapkan uang cash senilai:"
+    },
+    {
+      "id": 5,
+      "img": "",
+      "merk": "",
+      "rp": "",
+      "ket": "",
+      "img1": "https://phinemo.com/wp-content/uploads/2018/03/28156161_397754640648915_7029936112848076800_n.jpg",
+      "konten": "      \"konten\": \"Memasuki 2020, sejumlah wilayah Indonesia dihadapkan pada keadaan cuaca yang hujan terus menerus. Bahkan beberapa daerah terkena bencana banjir usai hujan besar. Jakarta dan Lahat menjadi wilayah yang terkena bencana banjir usai hujan besar yang tiba di awal tahun ini. Sejumlah wilayah di Jakarta terendam banjir hingga lebih dari 1 meter tingginya. Bahkan di Lahat, jembatan yang menjadi penghubung Muara Enim dan Lahat terputus akibat dampak dari banjir ini. Melihat ada kejadian banjir ini, tim CSR YAMAAP bersama dengan tim rescue dan medis YAMAAP bertindak cepat untuk memberikan bantuan. Untuk membantu masyarakat yang terkena banjir, CSR YAMAAP menyalurkan bantuan makanan siap santap untuk korban banjir di Duri Kosambi, Jakarta Barat, Kamis (2/1). CSR YAMAAP juga menyalurkan bantuan paket sembako, pakaian, air minum, dan kebutuhan lainnya untuk masyarakat terkena dampak banjir di Jati Asih, Bekasi pada Jumat (3/1).Tak hanya memberikan bantuan berupa kebutuhan makanan, YAMAAP juga membuka posko kesehatan untuk masyarakat terdampak banjir di Duren Tiga, Jakarta Selatan, Minggu (5/1). Dalam posko kesehatan ini, masyarakat terdampak banjir dapat berobat secara gratis dan mendapatkan bantuan pangan. Sementara itu di Lahat, CSR YAMAAP menyampaikan bantuan berupa selimut, handuk, hingga makanan untuk balita dan dewasa. Bantuan ini diserahkan secara simbolis kepada Camat Mulak Sebingkai, Kabupaten Lahat pada Jumat (3/1). Dalam membantu masyarakat terdampak banjir ini, YAMAAP juga terus berkoordinasi dengan pemerintah dan lembaga terkait untuk turut serta memulihkan keadaan lingkungan. Dengan partisipasi bantuan ini, YAMAAP berharap dapat meringankan beban para korban banjir.\""
+    }
+  ],
+  "login": [
+    {
+      "id": 0,
+      "username": "kipas",
+      "password": "123"
+    }
+  ],
+  "peduli": [
+    {
+      "id": 0,
+      "img1": "https://phinemo.com/wp-content/uploads/2018/03/28156161_397754640648915_7029936112848076800_n.jpg",
+      "konten": "Memasuki 2020, sejumlah wilayah Indonesia dihadapkan pada keadaan cuaca yang hujan terus menerus. Bahkan beberapa daerah terkena bencana banjir usai hujan besar. Jakarta dan Lahat menjadi wilayah yang terkena bencana banjir usai hujan besar yang tiba di awal tahun ini. Sejumlah wilayah di Jakarta terendam banjir hingga lebih dari 1 meter tingginya. Bahkan di Lahat, jembatan yang menjadi penghubung Muara Enim dan Lahat terputus akibat dampak dari banjir ini. Melihat ada kejadian banjir ini, tim CSR YAMAAP bersama dengan tim rescue dan medis YAMAAP bertindak cepat untuk memberikan bantuan. Untuk membantu masyarakat yang terkena banjir, CSR YAMAAP menyalurkan bantuan makanan siap santap untuk korban banjir di Duri Kosambi, Jakarta Barat, Kamis (2/1). CSR YAMAAP juga menyalurkan bantuan paket sembako, pakaian, air minum, dan kebutuhan lainnya untuk masyarakat terkena dampak banjir di Jati Asih, Bekasi pada Jumat (3/1).Tak hanya memberikan bantuan berupa kebutuhan makanan, YAMAAP juga membuka posko kesehatan untuk masyarakat terdampak banjir di Duren Tiga, Jakarta Selatan, Minggu (5/1). Dalam posko kesehatan ini, masyarakat terdampak banjir dapat berobat secara gratis dan mendapatkan bantuan pangan. Sementara itu di Lahat, CSR YAMAAP menyampaikan bantuan berupa selimut, handuk, hingga makanan untuk balita dan dewasa. Bantuan ini diserahkan secara simbolis kepada Camat Mulak Sebingkai, Kabupaten Lahat pada Jumat (3/1). Dalam membantu masyarakat terdampak banjir ini, YAMAAP juga terus berkoordinasi dengan pemerintah dan lembaga terkait untuk turut serta memulihkan keadaan lingkungan. Dengan partisipasi bantuan ini, YAMAAP berharap dapat meringankan beban para korban banjir."
+    }
+  ]
+}
